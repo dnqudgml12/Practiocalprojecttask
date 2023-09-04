@@ -75,6 +75,13 @@ public class Word {
       //word라는 객체안에 데이터가 채워지고 toString()이라는 함수를 부르게 되면 원하느 format문자열 호출가능
     }
 
+    public String toFileString(){
+
+        return this.level+"|"+this.word+"|"+this.meaning;
+
+
+    }
+
 }
 
 

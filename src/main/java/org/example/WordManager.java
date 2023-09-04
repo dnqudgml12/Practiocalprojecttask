@@ -50,6 +50,8 @@ return s.nextInt();
 
     }
     public void start() {
+
+        wordCRUD.loadFile();
         //start함수가 main에서 호출되는 함수이므로 여기다가 selectMenu를 넣어줌
         //  System.out.println("WordManager!!!")
         // 0을 누를때 까지는 반복해야 하니까
@@ -66,6 +68,34 @@ return s.nextInt();
                 //list
                 wordCRUD.listAll();
                 
+            }
+         else if (menu==2) {
+            //list
+            wordCRUD.searchLevel();
+
+        }
+            else if (menu==3) {
+                //list
+                wordCRUD.searchWord();
+
+            }
+            else if (menu==5) {
+                //list
+                //wordCRUD.listAll();
+                wordCRUD.updateItem();
+
+            }
+            else if (menu==6) {
+                //list
+                //wordCRUD.listAll();
+                wordCRUD.deleteItem();
+
+            }
+            else if (menu==7) {
+                //list
+                //wordCRUD.listAll();
+                wordCRUD.saveFile();
+
             }
 
             //System.out.println(menu); // 사용자가 입력한 값 즉 리턴 값을 출력
