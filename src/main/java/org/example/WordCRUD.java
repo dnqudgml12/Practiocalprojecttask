@@ -201,7 +201,7 @@ public class WordCRUD implements ICRUD {
 
            }
            br.close();
-           System.out.println("==>" + count+"개 로딩 완료!!!");
+           System.out.println("==>" + count+"개 로딩 완료 !!!");
               }
         catch (IOException e){
             e.printStackTrace();
