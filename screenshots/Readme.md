@@ -1,6 +1,7 @@
 단어 추가 실행 화면 입니다.<br/>
 단어 추가 실행 화면 <br/>
-![image](https://github.com/dnqudgml12/Practiocalprojecttask/assets/127183521/de2177d5-30c3-45b0-8084-e33e49400189)
+<img src="https://user-images.githubusercontent.com/127183521/265614478-de2177d5-30c3-45b0-8084-e33e49400189.png" alt="image"
+width="60%"><br/>
 
 
 단어 목록 실행 화면 입니다.<br/>
