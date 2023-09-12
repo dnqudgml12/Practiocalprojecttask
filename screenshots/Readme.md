@@ -29,6 +29,7 @@ width="60%"><br/>
 
 단어 수정입니다.<br/>
 ![image](https://github.com/dnqudgml12/Practiocalprojecttask/assets/127183521/a842129a-1678-4721-b870-241eaf9be5f7)
+
 단어가 수정 되어 있는 것을 볼 수 있습니다.<br/>
 ![image](https://github.com/dnqudgml12/Practiocalprojecttask/assets/127183521/f3c4591f-dae7-44d8-9f7e-eaa9864a1e90)
 
