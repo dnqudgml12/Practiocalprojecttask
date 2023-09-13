@@ -32,10 +32,12 @@ width="60%"><br/>
 단어 수정입니다.<br/>
 <img src="https://user-images.githubusercontent.com/127183521/267286266-a842129a-1678-4721-b870-241eaf9be5f7.png" alt="image"
 width="60%"><br/>
+![image](https://github.com/dnqudgml12/Practiocalprojecttask/assets/127183521/b6370f1d-ffe0-4e6d-af18-7d279b112795)
 
 단어가 수정 되어 있는 것을 볼 수 있습니다.<br/>
 <img src="https://user-images.githubusercontent.com/127183521/267286317-f3c4591f-dae7-44d8-9f7e-eaa9864a1e90.png" alt="image"
 width="60%"><br/>
+![image](https://github.com/dnqudgml12/Practiocalprojecttask/assets/127183521/cd80a2b0-a022-4942-bcc5-3c6b148064d4)
 
 단어 삭제입니다.<br/>
 <img src="https://user-images.githubusercontent.com/127183521/267287282-1e367901-ac7b-47f8-8283-c089abf11a79.png" alt="image"
