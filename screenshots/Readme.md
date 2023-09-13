@@ -30,14 +30,12 @@ width="60%"><br/>
 width="60%"><br/>
 
 단어 수정입니다.<br/>
-<img src="https://user-images.githubusercontent.com/127183521/267598991-b6370f1d-ffe0-4e6d-af18-7d279b112795.png" alt="image"
+<img src="https://user-images.githubusercontent.com/127183521/267600023-a615e59e-e70f-40f8-a261-e535f06f7f5f.png" alt="image"
 width="60%"><br/>
-![image](https://github.com/dnqudgml12/Practiocalprojecttask/assets/127183521/a1911ebe-9aa3-4366-ac0a-475fb6dab3a1)
 
-![image](https://github.com/dnqudgml12/Practiocalprojecttask/assets/127183521/a615e59e-e70f-40f8-a261-e535f06f7f5f)
 
 단어가 수정 되어 있는 것을 볼 수 있습니다.<br/>
-<img src="https://user-images.githubusercontent.com/127183521/267599120-cd80a2b0-a022-4942-bcc5-3c6b148064d4.png" alt="image"
+<img src="https://user-images.githubusercontent.com/127183521/267600138-a1911ebe-9aa3-4366-ac0a-475fb6dab3a1.png" alt="image"
 width="60%"><br/>
 
 단어 삭제입니다.<br/>
